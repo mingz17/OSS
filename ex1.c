@@ -5,7 +5,7 @@ void output(int *p, int N);
 
 int main()
 {
-	int M, N, k;
+	int M, N, k,l;
 	int x[100], y[100];
         int i;
 	
